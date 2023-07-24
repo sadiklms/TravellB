@@ -21,7 +21,7 @@
             <div class="col-lg-6">
               <!-- Section heading -->
               
-                <h2 class="rlr-section__title--main">About</h2>
+                <h2 class="rlr-section__title--main">About sadik</h2>
                
               
               <p class="rlr-text-card__desc">{{$about->title}}</p>
